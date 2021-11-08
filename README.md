@@ -1,4 +1,4 @@
-To Run the Project :
+<b>To Run the Project :<b>
 
 1.Run the main function and choose the name for the Estore .
 2.Choose options from the menu .
