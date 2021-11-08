@@ -1,4 +1,4 @@
-<b>To Run the Project :<b>
+# To Run the Project :
 
 1.Run the main function and choose the name for the Estore .
   
@@ -9,7 +9,7 @@
 *This Electronic store consists of buyers,sellers and people who are both
   
 
-All users can register as :
+# All users can register as :
 
 1.Buyers
 
@@ -22,7 +22,7 @@ All users can register as :
 *Sellers can add products to their store . And users which register as Buyer and Seller can do both .
 
 
-From this project i learned :
+# From this project i learned :
 
 1.In depth Object oriented principles .
 
