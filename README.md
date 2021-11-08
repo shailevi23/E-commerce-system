@@ -1,8 +1,11 @@
 <b>To Run the Project :<b>
 
 1.Run the main function and choose the name for the Estore .
+  
 2.Choose options from the menu .
+  
 3.Enjoy !!!
+  
 *This Electronic store consists of buyers,sellers and people who are both
 
 All users can register as :
