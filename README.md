@@ -7,6 +7,7 @@
 3.Enjoy !!!
   
 *This Electronic store consists of buyers,sellers and people who are both
+  
 
 All users can register as :
 
