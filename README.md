@@ -6,6 +6,7 @@ To Run the Project :
 *This Electronic store consists of buyers,sellers and people who are both
 
 All users can register as :
+
 1.Buyers
 2.Sellers
 3.Buyer-Seller
