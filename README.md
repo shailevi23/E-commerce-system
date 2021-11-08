@@ -8,13 +8,22 @@ To Run the Project :
 All users can register as :
 
 1.Buyers
+
 2.Sellers
+
 3.Buyer-Seller
+
 *Buyers can add products to their cart , make orders , leave reviews on diffrent sellers which they bought from .
+
 *Sellers can add products to their store . And users which register as Buyer and Seller can do both .
 
+
 From this project i learned :
+
 1.In depth Object oriented principles .
+
 2.How to design the project using these principles .
+
 3.Write clean code .
+
 4.Using C++ Templates and the STL library
